@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:  rgb(63, 63, 134);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin: 50px;
+         font-family: "Oswald", sans-serif;
+         font-optical-sizing: auto;
+         font-weight: <weight>;
+         font-style: normal;
+}
+    
+
+
+img{
+    width: 10%;
+    
+}
+
+ul{
+    background-color: black;
+    padding: 50px;
+    margin: 15px;
+}
